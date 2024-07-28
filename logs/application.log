@@ -1,0 +1,505 @@
+2024-07-28 10:48:44 - Starting SpringBootAppApplication using Java 21.0.3 with PID 12724 (D:\maybank_task\spring-boot-app\target\classes started by FBSPLENG in D:\maybank_task)
+2024-07-28 10:48:44 - No active profile set, falling back to 1 default profile: "default"
+2024-07-28 10:48:44 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-28 10:48:44 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-28 10:48:45 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-28 10:48:45 - Finished Spring Data repository scanning in 43 ms. Found 1 JPA repository interface.
+2024-07-28 10:48:46 - Tomcat initialized with port 8080 (http)
+2024-07-28 10:48:46 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-28 10:48:46 - Starting service [Tomcat]
+2024-07-28 10:48:46 - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-07-28 10:48:46 - Initializing Spring embedded WebApplicationContext
+2024-07-28 10:48:46 - Root WebApplicationContext: initialization completed in 2067 ms
+2024-07-28 10:48:47 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-28 10:48:47 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-28 10:48:47 - HHH000026: Second-level cache disabled
+2024-07-28 10:48:48 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-28 10:48:48 - HikariPool-1 - Starting...
+2024-07-28 10:48:48 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 4efb6f79-5b9f-44a6-989c-97e5ed026143
+2024-07-28 10:48:48 - HikariPool-1 - Start completed.
+2024-07-28 10:48:48 - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-28 10:48:49 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-28 10:48:49 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-28 10:48:50 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-28 10:48:51 - LiveReload server is running on port 35729
+2024-07-28 10:48:51 - Exposing 1 endpoint beneath base path '/actuator'
+2024-07-28 10:48:51 - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-28 10:48:51 - Tomcat started on port 8080 (http) with context path '/'
+2024-07-28 10:48:51 - Started SpringBootAppApplication in 7.296 seconds (process running for 7.892)
+2024-07-28 10:56:26 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-28 10:56:26 - Initializing Servlet 'dispatcherServlet'
+2024-07-28 10:56:26 - Completed initialization in 1 ms
+2024-07-28 10:56:26 - createEntity MB Request - {
+  "id": 1,
+  "name": "MBBBBBBBBBBBBB name 1",
+  "location": "Malaysia"
+}
+2024-07-28 10:56:27 - createEntity MB Response - {
+  "id": 1,
+  "name": "MBBBBBBBBBBBBB name 1",
+  "location": "Malaysia"
+}
+2024-07-28 10:56:32 - createEntity MB Request - {
+  "id": 2,
+  "name": "MBBBBBBBBBBBBB name 2",
+  "location": "Malaysia"
+}
+2024-07-28 10:56:32 - createEntity MB Response - {
+  "id": 2,
+  "name": "MBBBBBBBBBBBBB name 2",
+  "location": "Malaysia"
+}
+2024-07-28 10:56:36 - createEntity MB Request - {
+  "id": 3,
+  "name": "MBBBBBBBBBBBBB name 3",
+  "location": "Malaysia"
+}
+2024-07-28 10:56:36 - createEntity MB Response - {
+  "id": 3,
+  "name": "MBBBBBBBBBBBBB name 3",
+  "location": "Malaysia"
+}
+2024-07-28 10:56:41 - createEntity MB Request - {
+  "id": 4,
+  "name": "MBBBBBBBBBBBBB name 4",
+  "location": "Malaysia"
+}
+2024-07-28 10:56:41 - createEntity MB Response - {
+  "id": 4,
+  "name": "MBBBBBBBBBBBBB name 4",
+  "location": "Malaysia"
+}
+2024-07-28 10:56:45 - createEntity MB Request - {
+  "id": 5,
+  "name": "MBBBBBBBBBBBBB name 5",
+  "location": "Malaysia"
+}
+2024-07-28 10:56:45 - createEntity MB Response - {
+  "id": 5,
+  "name": "MBBBBBBBBBBBBB name 5",
+  "location": "Malaysia"
+}
+2024-07-28 10:56:55 - createEntity MB Request - {
+  "id": 6,
+  "name": "MBBBBBBBBBBBBB name 6",
+  "location": "India"
+}
+2024-07-28 10:56:55 - createEntity MB Response - {
+  "id": 6,
+  "name": "MBBBBBBBBBBBBB name 6",
+  "location": "India"
+}
+2024-07-28 10:57:00 - createEntity MB Request - {
+  "id": 7,
+  "name": "MBBBBBBBBBBBBB name 7",
+  "location": "India"
+}
+2024-07-28 10:57:00 - createEntity MB Response - {
+  "id": 7,
+  "name": "MBBBBBBBBBBBBB name 7",
+  "location": "India"
+}
+2024-07-28 10:57:06 - createEntity MB Request - {
+  "id": 8,
+  "name": "MBBBBBBBBBBBBB name 8",
+  "location": "India"
+}
+2024-07-28 10:57:06 - createEntity MB Response - {
+  "id": 8,
+  "name": "MBBBBBBBBBBBBB name 8",
+  "location": "India"
+}
+2024-07-28 10:57:11 - createEntity MB Request - {
+  "id": 9,
+  "name": "MBBBBBBBBBBBBB name 9",
+  "location": "India"
+}
+2024-07-28 10:57:11 - createEntity MB Response - {
+  "id": 9,
+  "name": "MBBBBBBBBBBBBB name 9",
+  "location": "India"
+}
+2024-07-28 10:57:27 - createEntity MB Request - {
+  "id": 10,
+  "name": "MBBBBBBBBBBBBB name 10",
+  "location": "Indonesia"
+}
+2024-07-28 10:57:27 - createEntity MB Response - {
+  "id": 10,
+  "name": "MBBBBBBBBBBBBB name 10",
+  "location": "Indonesia"
+}
+2024-07-28 10:57:33 - createEntity MB Request - {
+  "id": 11,
+  "name": "MBBBBBBBBBBBBB name 11",
+  "location": "Indonesia"
+}
+2024-07-28 10:57:33 - createEntity MB Response - {
+  "id": 11,
+  "name": "MBBBBBBBBBBBBB name 11",
+  "location": "Indonesia"
+}
+2024-07-28 10:57:38 - createEntity MB Request - {
+  "id": 12,
+  "name": "MBBBBBBBBBBBBB name 12",
+  "location": "Indonesia"
+}
+2024-07-28 10:57:38 - createEntity MB Response - {
+  "id": 12,
+  "name": "MBBBBBBBBBBBBB name 12",
+  "location": "Indonesia"
+}
+2024-07-28 10:57:43 - getMBStaff MB Request - Page 0, Size 12 
+2024-07-28 10:57:43 - Staff members retrieved: 12
+2024-07-28 10:57:43 - Staff member: {
+  "id": 1,
+  "name": "MBBBBBBBBBBBBB name 1",
+  "location": "Malaysia"
+}
+2024-07-28 10:57:43 - Staff member: {
+  "id": 2,
+  "name": "MBBBBBBBBBBBBB name 2",
+  "location": "Malaysia"
+}
+2024-07-28 10:57:43 - Staff member: {
+  "id": 3,
+  "name": "MBBBBBBBBBBBBB name 3",
+  "location": "Malaysia"
+}
+2024-07-28 10:57:43 - Staff member: {
+  "id": 4,
+  "name": "MBBBBBBBBBBBBB name 4",
+  "location": "Malaysia"
+}
+2024-07-28 10:57:43 - Staff member: {
+  "id": 5,
+  "name": "MBBBBBBBBBBBBB name 5",
+  "location": "Malaysia"
+}
+2024-07-28 10:57:43 - Staff member: {
+  "id": 6,
+  "name": "MBBBBBBBBBBBBB name 6",
+  "location": "India"
+}
+2024-07-28 10:57:43 - Staff member: {
+  "id": 7,
+  "name": "MBBBBBBBBBBBBB name 7",
+  "location": "India"
+}
+2024-07-28 10:57:43 - Staff member: {
+  "id": 8,
+  "name": "MBBBBBBBBBBBBB name 8",
+  "location": "India"
+}
+2024-07-28 10:57:43 - Staff member: {
+  "id": 9,
+  "name": "MBBBBBBBBBBBBB name 9",
+  "location": "India"
+}
+2024-07-28 10:57:43 - Staff member: {
+  "id": 10,
+  "name": "MBBBBBBBBBBBBB name 10",
+  "location": "Indonesia"
+}
+2024-07-28 10:57:43 - Staff member: {
+  "id": 11,
+  "name": "MBBBBBBBBBBBBB name 11",
+  "location": "Indonesia"
+}
+2024-07-28 10:57:43 - Staff member: {
+  "id": 12,
+  "name": "MBBBBBBBBBBBBB name 12",
+  "location": "Indonesia"
+}
+2024-07-28 10:57:43 - Page number: 0
+2024-07-28 10:57:43 - Total pages: 1
+2024-07-28 10:57:43 - Total elements: 12
+2024-07-28 10:57:56 - getMBStaff MB Request - Page 1, Size 12 
+2024-07-28 10:57:56 - Staff members retrieved: 0
+2024-07-28 10:57:56 - Page number: 1
+2024-07-28 10:57:56 - Total pages: 1
+2024-07-28 10:57:56 - Total elements: 12
+2024-07-28 10:58:14 - getMBStaff MB Request - Page 1, Size 10 
+2024-07-28 10:58:14 - Staff members retrieved: 2
+2024-07-28 10:58:14 - Staff member: {
+  "id": 11,
+  "name": "MBBBBBBBBBBBBB name 11",
+  "location": "Indonesia"
+}
+2024-07-28 10:58:14 - Staff member: {
+  "id": 12,
+  "name": "MBBBBBBBBBBBBB name 12",
+  "location": "Indonesia"
+}
+2024-07-28 10:58:14 - Page number: 1
+2024-07-28 10:58:14 - Total pages: 2
+2024-07-28 10:58:14 - Total elements: 12
+2024-07-28 10:58:49 - getMBStaff MB Request - Page 0, Size 10 
+2024-07-28 10:58:49 - Staff members retrieved: 10
+2024-07-28 10:58:49 - Staff member: {
+  "id": 1,
+  "name": "MBBBBBBBBBBBBB name 1",
+  "location": "Malaysia"
+}
+2024-07-28 10:58:49 - Staff member: {
+  "id": 2,
+  "name": "MBBBBBBBBBBBBB name 2",
+  "location": "Malaysia"
+}
+2024-07-28 10:58:49 - Staff member: {
+  "id": 3,
+  "name": "MBBBBBBBBBBBBB name 3",
+  "location": "Malaysia"
+}
+2024-07-28 10:58:49 - Staff member: {
+  "id": 4,
+  "name": "MBBBBBBBBBBBBB name 4",
+  "location": "Malaysia"
+}
+2024-07-28 10:58:49 - Staff member: {
+  "id": 5,
+  "name": "MBBBBBBBBBBBBB name 5",
+  "location": "Malaysia"
+}
+2024-07-28 10:58:49 - Staff member: {
+  "id": 6,
+  "name": "MBBBBBBBBBBBBB name 6",
+  "location": "India"
+}
+2024-07-28 10:58:49 - Staff member: {
+  "id": 7,
+  "name": "MBBBBBBBBBBBBB name 7",
+  "location": "India"
+}
+2024-07-28 10:58:49 - Staff member: {
+  "id": 8,
+  "name": "MBBBBBBBBBBBBB name 8",
+  "location": "India"
+}
+2024-07-28 10:58:49 - Staff member: {
+  "id": 9,
+  "name": "MBBBBBBBBBBBBB name 9",
+  "location": "India"
+}
+2024-07-28 10:58:49 - Staff member: {
+  "id": 10,
+  "name": "MBBBBBBBBBBBBB name 10",
+  "location": "Indonesia"
+}
+2024-07-28 10:58:49 - Page number: 0
+2024-07-28 10:58:49 - Total pages: 2
+2024-07-28 10:58:49 - Total elements: 12
+2024-07-28 10:59:10 - getMBStaff MB Request - Page 1, Size 5 
+2024-07-28 10:59:10 - Staff members retrieved: 5
+2024-07-28 10:59:10 - Staff member: {
+  "id": 6,
+  "name": "MBBBBBBBBBBBBB name 6",
+  "location": "India"
+}
+2024-07-28 10:59:10 - Staff member: {
+  "id": 7,
+  "name": "MBBBBBBBBBBBBB name 7",
+  "location": "India"
+}
+2024-07-28 10:59:10 - Staff member: {
+  "id": 8,
+  "name": "MBBBBBBBBBBBBB name 8",
+  "location": "India"
+}
+2024-07-28 10:59:10 - Staff member: {
+  "id": 9,
+  "name": "MBBBBBBBBBBBBB name 9",
+  "location": "India"
+}
+2024-07-28 10:59:10 - Staff member: {
+  "id": 10,
+  "name": "MBBBBBBBBBBBBB name 10",
+  "location": "Indonesia"
+}
+2024-07-28 10:59:10 - Page number: 1
+2024-07-28 10:59:10 - Total pages: 3
+2024-07-28 10:59:10 - Total elements: 12
+2024-07-28 10:59:28 - updateEntity MB Request- ID=3, {
+  "name": "malastinga test"
+} 
+2024-07-28 10:59:28 - updateEntity MB Response- {
+  "id": 3,
+  "name": "malastinga test",
+  "location": "Malaysia"
+} 
+2024-07-28 11:00:08 - updateEntity MB Request- ID=10, {
+  "name": "ganti bond test"
+} 
+2024-07-28 11:00:08 - updateEntity MB Response- {
+  "id": 10,
+  "name": "ganti bond test",
+  "location": "Indonesia"
+} 
+2024-07-28 11:00:58 - updateEntity MB Request- ID=8, {
+  "location": "Malaysia"
+} 
+2024-07-28 11:00:58 - updateEntity MB Response- {
+  "id": 8,
+  "name": "MBBBBBBBBBBBBB name 8",
+  "location": "Malaysia"
+} 
+2024-07-28 11:01:26 - getMBStaff MB Request - Page 1, Size 5 
+2024-07-28 11:01:26 - Staff members retrieved: 5
+2024-07-28 11:01:26 - Staff member: {
+  "id": 6,
+  "name": "MBBBBBBBBBBBBB name 6",
+  "location": "India"
+}
+2024-07-28 11:01:26 - Staff member: {
+  "id": 7,
+  "name": "MBBBBBBBBBBBBB name 7",
+  "location": "India"
+}
+2024-07-28 11:01:26 - Staff member: {
+  "id": 8,
+  "name": "MBBBBBBBBBBBBB name 8",
+  "location": "Malaysia"
+}
+2024-07-28 11:01:26 - Staff member: {
+  "id": 9,
+  "name": "MBBBBBBBBBBBBB name 9",
+  "location": "India"
+}
+2024-07-28 11:01:26 - Staff member: {
+  "id": 10,
+  "name": "ganti bond test",
+  "location": "Indonesia"
+}
+2024-07-28 11:01:26 - Page number: 1
+2024-07-28 11:01:26 - Total pages: 3
+2024-07-28 11:01:26 - Total elements: 12
+2024-07-28 11:02:04 - Weather data request - ID: 1, Zip: 53200, countryCode: MY 
+2024-07-28 11:02:04 - Weather data response: {
+  "location": "Malaysia",
+  "currentWeatherByLocation": "{\"coord\":{\"lon\":112.5,\"lat\":2.5},\"weather\":[{\"id\":803,\"main\":\"Clouds\",\"description\":\"broken clouds\",\"icon\":\"04d\"}],\"base\":\"stations\",\"main\":{\"temp\":305.26,\"feels_like\":307.96,\"temp_min\":305.26,\"temp_max\":305.26,\"pressure\":1009,\"humidity\":51,\"sea_level\":1009,\"grnd_level\":978},\"visibility\":10000,\"wind\":{\"speed\":0.26,\"deg\":171,\"gust\":1.31},\"clouds\":{\"all\":57},\"dt\":1722135550,\"sys\":{\"country\":\"MY\",\"sunrise\":1722119366,\"sunset\":1722163400},\"timezone\":28800,\"id\":1733045,\"name\":\"Malaysia\",\"cod\":200}",
+  "currentWeatherByZipCountryCode": "{\"coord\":{\"lon\":101.7056,\"lat\":3.1702},\"weather\":[{\"id\":804,\"main\":\"Clouds\",\"description\":\"overcast clouds\",\"icon\":\"04d\"}],\"base\":\"stations\",\"main\":{\"temp\":305.26,\"feels_like\":312.26,\"temp_min\":303.57,\"temp_max\":305.63,\"pressure\":1010,\"humidity\":74,\"sea_level\":1010,\"grnd_level\":1006},\"visibility\":10000,\"wind\":{\"speed\":2.88,\"deg\":162,\"gust\":4.46},\"clouds\":{\"all\":100},\"dt\":1722135725,\"sys\":{\"type\":2,\"id\":2089667,\"country\":\"MY\",\"sunrise\":1722121901,\"sunset\":1722166046},\"timezone\":28800,\"id\":0,\"name\":\"Kuala Lumpur\",\"cod\":200}"
+} 
+2024-07-28 11:03:02 - Weather data request - ID: 1, Zip: 47500, countryCode: MY 
+2024-07-28 11:03:02 - Weather data response: {
+  "location": "Malaysia",
+  "currentWeatherByLocation": "{\"coord\":{\"lon\":112.5,\"lat\":2.5},\"weather\":[{\"id\":803,\"main\":\"Clouds\",\"description\":\"broken clouds\",\"icon\":\"04d\"}],\"base\":\"stations\",\"main\":{\"temp\":305.26,\"feels_like\":307.96,\"temp_min\":305.26,\"temp_max\":305.26,\"pressure\":1009,\"humidity\":51,\"sea_level\":1009,\"grnd_level\":978},\"visibility\":10000,\"wind\":{\"speed\":0.26,\"deg\":171,\"gust\":1.31},\"clouds\":{\"all\":57},\"dt\":1722135550,\"sys\":{\"country\":\"MY\",\"sunrise\":1722119366,\"sunset\":1722163400},\"timezone\":28800,\"id\":1733045,\"name\":\"Malaysia\",\"cod\":200}",
+  "currentWeatherByZipCountryCode": "{\"coord\":{\"lon\":101.5949,\"lat\":3.0542},\"weather\":[{\"id\":804,\"main\":\"Clouds\",\"description\":\"overcast clouds\",\"icon\":\"04d\"}],\"base\":\"stations\",\"main\":{\"temp\":305.32,\"feels_like\":312.32,\"temp_min\":303.73,\"temp_max\":305.79,\"pressure\":1010,\"humidity\":77,\"sea_level\":1010,\"grnd_level\":1008},\"visibility\":10000,\"wind\":{\"speed\":4.11,\"deg\":150,\"gust\":5.88},\"clouds\":{\"all\":100},\"dt\":1722135784,\"sys\":{\"type\":2,\"id\":66184,\"country\":\"MY\",\"sunrise\":1722121937,\"sunset\":1722166063},\"timezone\":28800,\"id\":0,\"name\":\"Subang Jaya\",\"cod\":200}"
+} 2024-07-28 11:12:18 - Weather data request - ID: 1, Zip: SE2, countryCode: GB 
+2024-07-28 11:12:18 - Weather data response: {
+  "location": "Malaysia",
+  "currentWeatherByLocation": "{\"coord\":{\"lon\":112.5,\"lat\":2.5},\"weather\":[{\"id\":803,\"main\":\"Clouds\",\"description\":\"broken clouds\",\"icon\":\"04d\"}],\"base\":\"stations\",\"main\":{\"temp\":305.26,\"feels_like\":307.96,\"temp_min\":305.26,\"temp_max\":305.26,\"pressure\":1009,\"humidity\":51,\"sea_level\":1009,\"grnd_level\":978},\"visibility\":10000,\"wind\":{\"speed\":0.26,\"deg\":171,\"gust\":1.31},\"clouds\":{\"all\":57},\"dt\":1722136286,\"sys\":{\"country\":\"MY\",\"sunrise\":1722119366,\"sunset\":1722163400},\"timezone\":28800,\"id\":1733045,\"name\":\"Malaysia\",\"cod\":200}",
+  "currentWeatherByZipCountryCode": "{\"coord\":{\"lon\":0.1075,\"lat\":51.4869},\"weather\":[{\"id\":800,\"main\":\"Clear\",\"description\":\"clear sky\",\"icon\":\"01n\"}],\"base\":\"stations\",\"main\":{\"temp\":285.94,\"feels_like\":285.39,\"temp_min\":283.98,\"temp_max\":287.61,\"pressure\":1023,\"humidity\":81,\"sea_level\":1023,\"grnd_level\":1022},\"visibility\":10000,\"wind\":{\"speed\":0.99,\"deg\":287,\"gust\":1.05},\"clouds\":{\"all\":0},\"dt\":1722136340,\"sys\":{\"type\":2,\"id\":2031816,\"country\":\"GB\",\"sunrise\":1722140271,\"sunset\":1722196443},\"timezone\":3600,\"id\":0,\"name\":\"Lesnes Abbey\",\"cod\":200}"
+} 
+2024-07-28 11:14:05 - Weather data request - ID: 1, Zip: SE23, countryCode: GB 
+2024-07-28 11:14:05 - Weather data response: {
+  "location": "Malaysia",
+  "currentWeatherByLocation": "{\"coord\":{\"lon\":112.5,\"lat\":2.5},\"weather\":[{\"id\":803,\"main\":\"Clouds\",\"description\":\"broken clouds\",\"icon\":\"04d\"}],\"base\":\"stations\",\"main\":{\"temp\":305.26,\"feels_like\":307.96,\"temp_min\":305.26,\"temp_max\":305.26,\"pressure\":1009,\"humidity\":51,\"sea_level\":1009,\"grnd_level\":978},\"visibility\":10000,\"wind\":{\"speed\":0.26,\"deg\":171,\"gust\":1.31},\"clouds\":{\"all\":57},\"dt\":1722136286,\"sys\":{\"country\":\"MY\",\"sunrise\":1722119366,\"sunset\":1722163400},\"timezone\":28800,\"id\":1733045,\"name\":\"Malaysia\",\"cod\":200}",
+  "currentWeatherByZipCountryCode": "{\"coord\":{\"lon\":-0.0417,\"lat\":51.447},\"weather\":[{\"id\":800,\"main\":\"Clear\",\"description\":\"clear sky\",\"icon\":\"01n\"}],\"base\":\"stations\",\"main\":{\"temp\":285.31,\"feels_like\":284.85,\"temp_min\":283.68,\"temp_max\":287.03,\"pressure\":1023,\"humidity\":87,\"sea_level\":1023,\"grnd_level\":1018},\"visibility\":10000,\"wind\":{\"speed\":0.95,\"deg\":290,\"gust\":1},\"clouds\":{\"all\":0},\"dt\":1722136447,\"sys\":{\"type\":2,\"id\":2031816,\"country\":\"GB\",\"sunrise\":1722140316,\"sunset\":1722196469},\"timezone\":3600,\"id\":0,\"name\":\"Horniman Museum\",\"cod\":200}"
+} 
+2024-07-28 11:40:45 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-28 11:40:45 - Initializing Servlet 'dispatcherServlet'
+2024-07-28 11:40:45 - Completed initialization in 0 ms
+2024-07-28 11:40:45 - Invalid input: required fields are missing or empty.
+2024-07-28 11:41:59 - Duplicated key! Entity with ID 12 already exists.
+2024-07-28 11:42:25 - Record not found for ID: 20
+2024-07-28 11:44:04 - updateEntity MB Request- ID=13, {
+  "name": "chenngg gong 13",
+  "location": "Malaysia"
+} 
+2024-07-28 11:44:04 - updateEntity MB Response- {
+  "id": 13,
+  "name": "chenngg gong 13",
+  "location": "Malaysia"
+} 
+2024-07-28 11:44:54 - createEntity MB Request - {
+  "name": "MBBBBBBBBBBBBB name 14",
+  "location": "Indonesia"
+}
+2024-07-28 11:44:54 - createEntity MB Response - {
+  "id": 14,
+  "name": "MBBBBBBBBBBBBB name 14",
+  "location": "Indonesia"
+}
+2024-07-28 11:48:10 - getMBStaff MB Request - Page 3, Size 20 
+2024-07-28 11:48:10 - Staff members retrieved: 0
+2024-07-28 11:48:10 - Page number: 3
+2024-07-28 11:48:10 - Total pages: 1
+2024-07-28 11:48:10 - Total elements: 14
+2024-07-28 11:48:41 - getMBStaff MB Request - Page 2, Size 20 
+2024-07-28 11:48:41 - Staff members retrieved: 0
+2024-07-28 11:48:41 - Page number: 2
+2024-07-28 11:48:41 - Total pages: 1
+2024-07-28 11:48:41 - Total elements: 14
+2024-07-28 11:49:01 - getMBStaff MB Request - Page 2, Size 6 
+2024-07-28 11:49:01 - Staff members retrieved: 2
+2024-07-28 11:49:01 - Staff member: {
+  "id": 13,
+  "name": "chenngg gong 13",
+  "location": "Malaysia"
+}
+2024-07-28 11:49:01 - Staff member: {
+  "id": 14,
+  "name": "MBBBBBBBBBBBBB name 14",
+  "location": "Indonesia"
+}
+2024-07-28 11:49:01 - Page number: 2
+2024-07-28 11:49:01 - Total pages: 3
+2024-07-28 11:49:01 - Total elements: 14
+2024-07-28 11:49:13 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.IllegalArgumentException: Page number cannot be negative] with root cause
+java.lang.IllegalArgumentException: Page number cannot be negative
+	at com.maybank.spring_boot_app.controller.MBStaffController.getMBStaff(MBStaffController.java:93)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:926)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:831)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.ServerHttpObservationFilter.doFilterInternal(ServerHttpObservationFilter.java:113)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2024-07-28 11:49:34 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-28 11:49:34 - HikariPool-1 - Shutdown initiated...
+2024-07-28 11:49:34 - HikariPool-1 - Shutdown completed.

@@ -1,0 +1,137 @@
+2024-07-28 10:47:59 - Found @SpringBootConfiguration com.maybank.spring_boot_app.SpringBootAppApplication for test class com.maybank.spring_boot_app.SpringBootAppApplicationTests
+2024-07-28 10:47:59 - Restart disabled due to context in which it is running
+2024-07-28 10:48:00 - Starting SpringBootAppApplicationTests using Java 21.0.3 with PID 16824 (started by FBSPLENG in D:\maybank_task\spring-boot-app)
+2024-07-28 10:48:00 - No active profile set, falling back to 1 default profile: "default"
+2024-07-28 10:48:00 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-28 10:48:00 - Finished Spring Data repository scanning in 49 ms. Found 1 JPA repository interface.
+2024-07-28 10:48:01 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-28 10:48:01 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-28 10:48:01 - HHH000026: Second-level cache disabled
+2024-07-28 10:48:02 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-28 10:48:02 - HikariPool-1 - Starting...
+2024-07-28 10:48:02 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: e059edc3-a5fd-495e-9585-15774978734c
+2024-07-28 10:48:02 - HikariPool-1 - Start completed.
+2024-07-28 10:48:02 - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-28 10:48:03 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-28 10:48:03 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-28 10:48:05 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-28 10:48:06 - Exposing 1 endpoint beneath base path '/actuator'
+2024-07-28 10:48:06 - Started SpringBootAppApplicationTests in 6.527 seconds (process running for 7.621)
+2024-07-28 10:48:06 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-28 10:48:06 - HikariPool-1 - Shutdown initiated...
+2024-07-28 10:48:06 - HikariPool-1 - Shutdown completed.
+2024-07-28 10:53:10 - Could not detect default configuration classes for test class [com.maybank.spring_boot_app.SpringBootAppApplicationTests]: SpringBootAppApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-07-28 10:53:10 - Found @SpringBootConfiguration com.maybank.spring_boot_app.SpringBootAppApplication for test class com.maybank.spring_boot_app.SpringBootAppApplicationTests
+2024-07-28 10:53:10 - Restart disabled due to context in which it is running
+2024-07-28 10:53:11 - Starting SpringBootAppApplicationTests using Java 21.0.3 with PID 30372 (started by FBSPLENG in D:\maybank_task\spring-boot-app)
+2024-07-28 10:53:11 - No active profile set, falling back to 1 default profile: "default"
+2024-07-28 10:53:12 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-28 10:53:12 - Finished Spring Data repository scanning in 45 ms. Found 1 JPA repository interface.
+2024-07-28 10:53:13 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-28 10:53:13 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-28 10:53:13 - HHH000026: Second-level cache disabled
+2024-07-28 10:53:13 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-28 10:53:13 - HikariPool-1 - Starting...
+2024-07-28 10:53:14 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 885c1359-fda9-4449-9dd1-a9eeb81fa68f
+2024-07-28 10:53:14 - HikariPool-1 - Start completed.
+2024-07-28 10:53:14 - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-28 10:53:14 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-28 10:53:15 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-28 10:53:16 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-28 10:53:17 - Exposing 1 endpoint beneath base path '/actuator'
+2024-07-28 10:53:17 - Started SpringBootAppApplicationTests in 6.883 seconds (process running for 7.949)
+2024-07-28 10:53:18 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-28 10:53:18 - HikariPool-1 - Shutdown initiated...
+2024-07-28 10:53:18 - HikariPool-1 - Shutdown completed.
+2024-07-28 10:54:00 - Could not detect default configuration classes for test class [com.maybank.spring_boot_app.SpringBootAppApplicationTests]: SpringBootAppApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-07-28 10:54:00 - Found @SpringBootConfiguration com.maybank.spring_boot_app.SpringBootAppApplication for test class com.maybank.spring_boot_app.SpringBootAppApplicationTests
+2024-07-28 10:54:00 - Restart disabled due to context in which it is running
+2024-07-28 10:54:01 - Starting SpringBootAppApplicationTests using Java 21.0.3 with PID 26760 (started by FBSPLENG in D:\maybank_task\spring-boot-app)
+2024-07-28 10:54:01 - No active profile set, falling back to 1 default profile: "default"
+2024-07-28 10:54:02 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-28 10:54:02 - Finished Spring Data repository scanning in 36 ms. Found 1 JPA repository interface.
+2024-07-28 10:54:02 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-28 10:54:02 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-28 10:54:03 - HHH000026: Second-level cache disabled
+2024-07-28 10:54:03 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-28 10:54:03 - HikariPool-1 - Starting...
+2024-07-28 10:54:03 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 07eee4f4-5c6a-4e8c-b17d-697b69857d2b
+2024-07-28 10:54:03 - HikariPool-1 - Start completed.
+2024-07-28 10:54:03 - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-28 10:54:04 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-28 10:54:04 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-28 10:54:06 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-28 10:54:07 - Exposing 1 endpoint beneath base path '/actuator'
+2024-07-28 10:54:07 - Started SpringBootAppApplicationTests in 6.621 seconds (process running for 7.724)
+2024-07-28 10:54:08 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-28 10:54:08 - HikariPool-1 - Shutdown initiated...
+2024-07-28 10:54:08 - HikariPool-1 - Shutdown completed.
+2024-07-28 10:54:47 - Could not detect default configuration classes for test class [com.maybank.spring_boot_app.SpringBootAppApplicationTests]: SpringBootAppApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-07-28 10:54:47 - Found @SpringBootConfiguration com.maybank.spring_boot_app.SpringBootAppApplication for test class com.maybank.spring_boot_app.SpringBootAppApplicationTests
+2024-07-28 10:54:48 - Restart disabled due to context in which it is running
+2024-07-28 10:54:48 - Starting SpringBootAppApplicationTests using Java 21.0.3 with PID 26356 (started by FBSPLENG in D:\maybank_task\spring-boot-app)
+2024-07-28 10:54:48 - No active profile set, falling back to 1 default profile: "default"
+2024-07-28 10:54:49 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-28 10:54:49 - Finished Spring Data repository scanning in 48 ms. Found 1 JPA repository interface.
+2024-07-28 10:54:50 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-28 10:54:50 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-28 10:54:50 - HHH000026: Second-level cache disabled
+2024-07-28 10:54:50 - Could not detect default configuration classes for test class [com.maybank.spring_boot_app.SpringBootAppApplicationTests]: SpringBootAppApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-07-28 10:54:50 - Found @SpringBootConfiguration com.maybank.spring_boot_app.SpringBootAppApplication for test class com.maybank.spring_boot_app.SpringBootAppApplicationTests
+2024-07-28 10:54:50 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-28 10:54:51 - HikariPool-1 - Starting...
+2024-07-28 10:54:51 - Restart disabled due to context in which it is running
+2024-07-28 10:54:51 - Starting SpringBootAppApplicationTests using Java 21.0.3 with PID 27536 (started by FBSPLENG in D:\maybank_task\spring-boot-app)
+2024-07-28 10:54:51 - No active profile set, falling back to 1 default profile: "default"
+2024-07-28 10:54:51 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: b00d2e0c-964a-4f33-b21b-3a089702574f
+2024-07-28 10:54:51 - HikariPool-1 - Start completed.
+2024-07-28 10:54:51 - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-28 10:54:52 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-28 10:54:52 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-28 10:54:52 - Finished Spring Data repository scanning in 51 ms. Found 1 JPA repository interface.
+2024-07-28 10:54:53 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-28 10:54:53 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-28 10:54:53 - HHH000026: Second-level cache disabled
+2024-07-28 10:54:53 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-28 10:54:53 - HikariPool-1 - Starting...
+2024-07-28 10:54:57 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: c0c4bf71-7d1f-492c-9eb0-cf852225c714
+2024-07-28 10:54:57 - HikariPool-1 - Start completed.
+2024-07-28 10:54:57 - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-28 10:54:57 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-28 10:54:58 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-28 10:54:58 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-28 10:54:58 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-28 10:55:00 - Exposing 1 endpoint beneath base path '/actuator'
+2024-07-28 10:55:00 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-28 10:55:00 - Started SpringBootAppApplicationTests in 12.193 seconds (process running for 13.334)
+2024-07-28 10:55:01 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-28 10:55:01 - HikariPool-1 - Shutdown initiated...
+2024-07-28 10:55:01 - HikariPool-1 - Shutdown completed.
+2024-07-28 10:55:01 - Exposing 1 endpoint beneath base path '/actuator'
+2024-07-28 10:55:01 - Started SpringBootAppApplicationTests in 10.403 seconds (process running for 11.607)
+2024-07-28 10:55:01 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-28 10:55:01 - HikariPool-1 - Shutdown initiated...
+2024-07-28 10:55:01 - HikariPool-1 - Shutdown completed.
+2024-07-28 10:55:28 - Could not detect default configuration classes for test class [com.maybank.spring_boot_app.SpringBootAppApplicationTests]: SpringBootAppApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-07-28 10:55:28 - Found @SpringBootConfiguration com.maybank.spring_boot_app.SpringBootAppApplication for test class com.maybank.spring_boot_app.SpringBootAppApplicationTests
+2024-07-28 10:55:28 - Restart disabled due to context in which it is running
+2024-07-28 10:55:28 - Starting SpringBootAppApplicationTests using Java 21.0.3 with PID 12564 (started by FBSPLENG in D:\maybank_task\spring-boot-app)
+2024-07-28 10:55:28 - No active profile set, falling back to 1 default profile: "default"
+2024-07-28 10:55:29 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-28 10:55:29 - Finished Spring Data repository scanning in 40 ms. Found 1 JPA repository interface.
+2024-07-28 10:55:30 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-28 10:55:30 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-28 10:55:30 - HHH000026: Second-level cache disabled
+2024-07-28 10:55:31 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-28 10:55:31 - HikariPool-1 - Starting...
+2024-07-28 10:55:31 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 15606538-6d2b-4b0b-8729-2a6aa2de00d4
+2024-07-28 10:55:31 - HikariPool-1 - Start completed.
+2024-07-28 10:55:31 - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-28 10:55:32 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-28 10:55:32 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-28 10:55:33 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-28 10:55:34 - Exposing 1 endpoint beneath base path '/actuator'
+2024-07-28 10:55:34 - Started SpringBootAppApplicationTests in 6.209 seconds (process running for 7.401)
+2024-07-28 10:55:35 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-28 10:55:35 - HikariPool-1 - Shutdown initiated...
+2024-07-28 10:55:35 - HikariPool-1 - Shutdown completed.
